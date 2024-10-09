@@ -13,6 +13,7 @@ import org.slf4j.LoggerFactory;
 public class Main {
 
     public static void main(String[] args) {
+        // Test 1
         ApplicationConfig.startServer(7070);
     }
 }
